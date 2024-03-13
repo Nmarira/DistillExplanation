@@ -1,4 +1,5 @@
-Code for distillation with explanation. 
+Code for distillation with explanation using Mindspore. 
+
 
 ### Configs
 
